@@ -1,4 +1,6 @@
-# IGNITE TIMER
+<h1 align="center">
+    <img alt="IgniteTimer" title="#IgniteTimer" src="./src/assets/layout/capa.png" />
+</h1>
 
 ## 💻 Sobre o projeto
 
