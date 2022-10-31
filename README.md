@@ -8,7 +8,7 @@
 
 <p>É o segundo projeto desenvolvido durante as aulas da trilha atualizada de ReactJs do Ignite, disponibilizado pela Rocketseat.</p>
 
-<p>No qual, após sua finalização nas aulas eu adicionei responsividade para dispositivos web mobile, assim como a funcionalidade de trasitar entre o tema dark e o light.</p>
+<p>No qual, após sua finalização nas aulas eu adicionei responsividade para dispositivos web mobile, assim como a funcionalidade de transitar entre o tema dark e o light.</p>
 
 ---
 
